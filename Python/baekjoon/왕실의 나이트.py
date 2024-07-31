@@ -13,4 +13,5 @@ for step in steps :
     if next_x>=1 and next_y>=1 and next_x<=8 and next_y<=8 :
         cnt+=1
 
+
 print(cnt)
