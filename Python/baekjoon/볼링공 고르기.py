@@ -10,7 +10,7 @@ for x in data :
 result = 0
 
 for i in range(1,m+1) :
-    n-=balling[i]
+    n-=balling[i] 
     result+=balling[i]*n
 
 print(result)
