@@ -10,3 +10,7 @@ result=sorted(array,reverse=True)
 
 for i in result :
     print(i,end=' ')
+
+
+li=[]
+li.append
